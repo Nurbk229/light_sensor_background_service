@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Assignment Light Sensor</string>
+    <string name="SHARED_PREF" translatable="false">APP_SHARED_PREF</string>
+    <string name="PREF_IS_PROTECTED_APPS" translatable="false">PREF_IS_PROTECTED_APPS</string>
+
+</resources>
